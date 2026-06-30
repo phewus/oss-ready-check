@@ -1,0 +1,13 @@
+OSS Ready Check Report
+Target: /example/repository
+Score: 78/100 (78%)
+
+PASS  README                   Project overview exists
+PASS  License                  License file exists
+MISS  Contributing guide       Contribution instructions exist
+PASS  Tests                    Test files or test directory exist
+MISS  Security policy          Security reporting policy exists
+
+Suggested next actions:
+1. Add CONTRIBUTING.md with setup steps, coding style, testing instructions, and pull request guidance.
+2. Add SECURITY.md to explain how users should responsibly report vulnerabilities.
