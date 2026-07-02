@@ -4,7 +4,7 @@ OSS Ready Check is a local command-line tool. It does not intentionally collect,
 
 ## Reporting a vulnerability
 
-If you find a security issue, please do not open a public issue with exploit details. Instead, contact the maintainer privately if a contact method is available on the repository profile.
+If you find a security issue, please do not open a public issue with exploit details. Instead, the contact method that is available on the repository profile.
 
 Please include:
 
